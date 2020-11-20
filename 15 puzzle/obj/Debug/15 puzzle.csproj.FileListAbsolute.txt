@@ -1,0 +1,9 @@
+E:\Programms\мои программы СиШарп\15 puzzle\15 puzzle\bin\Debug\15 puzzle.exe.config
+E:\Programms\мои программы СиШарп\15 puzzle\15 puzzle\bin\Debug\15 puzzle.exe
+E:\Programms\мои программы СиШарп\15 puzzle\15 puzzle\bin\Debug\15 puzzle.pdb
+E:\Programms\мои программы СиШарп\15 puzzle\15 puzzle\obj\Debug\15 puzzle.csprojResolveAssemblyReference.cache
+E:\Programms\мои программы СиШарп\15 puzzle\15 puzzle\obj\Debug\_15_puzzle.Properties.Resources.resources
+E:\Programms\мои программы СиШарп\15 puzzle\15 puzzle\obj\Debug\15 puzzle.csproj.GenerateResource.Cache
+E:\Programms\мои программы СиШарп\15 puzzle\15 puzzle\obj\Debug\15 puzzle.exe
+E:\Programms\мои программы СиШарп\15 puzzle\15 puzzle\obj\Debug\15 puzzle.pdb
+E:\Programms\мои программы СиШарп\15 puzzle\15 puzzle\obj\Debug\_15_puzzle.FifteenPuzzle.resources
